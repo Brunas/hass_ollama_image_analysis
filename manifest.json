@@ -3,7 +3,8 @@
   "name": "Ollama (local AI models) image analysis",
   "version": "0.1.3-beta",
   "codeowners": [
-    "@the-smart-home-maker"
+    "@the-smart-home-maker",
+    "@Brunas"
   ],
   "config_flow": true,
   "single_config_entry": true,
